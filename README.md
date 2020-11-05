@@ -11,7 +11,8 @@ Practices for the subject Scripting.
 * Practice 6: Lua from C++.
 * Practice 7: C++ from Lua.
 
-*For this subject, I'm only going to include the codes, not all the process to execute them.*
+**For this subject, I've only included the codes, not all the process to execute them.**
+This is because the configuration to execute them is a bit messy, so I've written below what I used but you can run them any other way. 
 
 ### My configuration
 * I've used [DECODA](https://unknownworlds.com/decoda/) as the IDE to compile the codes but you will need [MOAI SDK](https://drive.google.com/file/d/1yTzb58-4ohLcq7kkeUHVy7taopb8woCf/view?usp=sharing) to have a library that process images.
